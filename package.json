@@ -1,0 +1,33 @@
+{
+  "name": "gesture-generation-visualization",
+  "version": "1.0.0",
+  "description": "Parcel project to visualization gesture using three.js",
+  "scripts": {
+    "dev":"parcel src/index.html",
+    "start":"parcel src/index.html",
+    "build":"parcel build src/index.html --public-url ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmthanh/Gesture-Generation-Visualization.git"
+  },
+  "keywords": [
+    "gesture",
+    "generation;",
+    "threejs;",
+    "gesture"
+  ],
+  "author": "Thanh Hoang-Minh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmthanh/Gesture-Generation-Visualization/issues"
+  },
+  "homepage": "https://github.com/hmthanh/Gesture-Generation-Visualization#readme",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
